@@ -34,5 +34,4 @@ public class Continente {
         this.nombre = nombre;
     }
 
-
 }

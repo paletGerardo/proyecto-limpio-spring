@@ -36,12 +36,12 @@ public class Ubicacion {
 		this.latitud = latitud;
 		this.longitud = longitud;
 	}
-	
+
 	public Ubicacion() {
-		
+
 	}
 
 
-	
-   
+
+
 }
